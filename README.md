@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/ayushydv831/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
