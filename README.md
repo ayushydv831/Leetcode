@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/ayushydv831/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ayushydv831/Leetcode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ayushydv831/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
