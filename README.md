@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayushydv831/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
@@ -42,9 +43,19 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushydv831/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushydv831/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
