@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/ayushydv831/Leetcode/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/ayushydv831/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/ayushydv831/Leetcode/tree/master/0120-triangle) |
 ## Binary Search Tree
 |  |
 | ------- |
