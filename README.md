@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ayushydv831/Leetcode/tree/master/0071-simplify-path) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayushydv831/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ayushydv831/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayushydv831/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ayushydv831/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,9 +73,18 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushydv831/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
