@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/ayushydv831/Leetcode/tree/master/0120-triangle) |
+| [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/ayushydv831/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/ayushydv831/Leetcode/tree/master/0217-contains-duplicate) |
 ## Depth-First Search
 |  |
@@ -87,4 +89,16 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
