@@ -59,6 +59,7 @@
 | [0110-balanced-binary-tree](https://github.com/ayushydv831/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/ayushydv831/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0110-balanced-binary-tree](https://github.com/ayushydv831/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/ayushydv831/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushydv831/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/ayushydv831/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Linked List
 |  |
 | ------- |
