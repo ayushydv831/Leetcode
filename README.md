@@ -24,6 +24,7 @@
 | [0110-balanced-binary-tree](https://github.com/ayushydv831/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
+| [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,10 +32,12 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayushydv831/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
+| [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
+| [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +113,16 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushydv831/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Union-Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
