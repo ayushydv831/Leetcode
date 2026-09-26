@@ -6,6 +6,7 @@
 | ------- |
 | [0120-triangle](https://github.com/ayushydv831/Leetcode/tree/master/0120-triangle) |
 | [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ayushydv831/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 | [0110-balanced-binary-tree](https://github.com/ayushydv831/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
@@ -33,6 +35,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayushydv831/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Graph Theory
@@ -119,6 +122,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Graph Coloring
@@ -129,4 +133,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
