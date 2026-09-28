@@ -96,6 +96,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ayushydv831/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushydv831/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
@@ -141,4 +142,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ayushydv831/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
