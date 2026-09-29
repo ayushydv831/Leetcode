@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ayushydv831/Leetcode/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -142,6 +146,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Recursion
 |  |
 | ------- |
