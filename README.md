@@ -8,6 +8,7 @@
 | [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ayushydv831/Leetcode/tree/master/0217-contains-duplicate) |
+| [0542-01-matrix](https://github.com/ayushydv831/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushydv831/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -41,6 +42,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushydv831/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayushydv831/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ayushydv831/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayushydv831/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/ayushydv831/Leetcode/tree/master/0120-triangle) |
+| [0542-01-matrix](https://github.com/ayushydv831/Leetcode/tree/master/0542-01-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ayushydv831/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushydv831/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
