@@ -60,12 +60,14 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ayushydv831/Leetcode/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/ayushydv831/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayushydv831/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushydv831/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/ayushydv831/Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/ayushydv831/Leetcode/tree/master/0071-simplify-path) |
 ## Stack
 |  |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayushydv831/Leetcode/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ayushydv831/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
