@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushydv831/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/ayushydv831/Leetcode/tree/master/0120-triangle) |
 | [0164-maximum-gap](https://github.com/ayushydv831/Leetcode/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/ayushydv831/Leetcode/tree/master/0200-number-of-islands) |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ayushydv831/Leetcode/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushydv831/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
