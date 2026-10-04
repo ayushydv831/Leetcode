@@ -13,6 +13,7 @@
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushydv831/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ayushydv831/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0801-is-graph-bipartite](https://github.com/ayushydv831/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/ayushydv831/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ayushydv831/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0733-flood-fill](https://github.com/ayushydv831/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushydv831/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushydv831/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ayushydv831/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
